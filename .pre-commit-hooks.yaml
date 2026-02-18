@@ -1,0 +1,4 @@
+- id: deps
+  name: typst-deps
+  entry: ensure-deps-tracked.sh
+  language: script
