@@ -2,3 +2,4 @@
   name: typst-deps
   entry: ensure-deps-tracked.sh
   language: script
+  always_run: true
